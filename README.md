@@ -1,0 +1,2 @@
+# finding_donors
+This project employs several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census. The best candidate algorithm from preliminary results is then chosen and this algorithm is further optimized to best model the data. The goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.
